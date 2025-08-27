@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+TestResults/
+*.user
+*.suo
+
+**/appsettings.Local.json
+**/appsettings.Development.json
+
+
+TestProject1/appsettings.Test.json
+ToDoList/appsettings.json
